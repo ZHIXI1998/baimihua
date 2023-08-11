@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.boot:spring-boot-starter-thymeleaf:3.1.2">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Agricultural Implements/Maven Repository/Maven Repository Public/Repository_public/Repository_public/org/springframework/boot/spring-boot-starter-thymeleaf/3.1.2/spring-boot-starter-thymeleaf-3.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Agricultural Implements/Maven Repository/Maven Repository Public/Repository_public/Repository_public/org/springframework/boot/spring-boot-starter-thymeleaf/3.1.2/spring-boot-starter-thymeleaf-3.1.2.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../Agricultural Implements/Maven Repository/Maven Repository Public/Repository_public/Repository_public/org/springframework/boot/spring-boot-starter-thymeleaf/3.1.2/spring-boot-starter-thymeleaf-3.1.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Agricultural Implements/Maven Repository/Maven Repository Public/Repository_public/Repository_public/org/springframework/boot/spring-boot-starter-thymeleaf/3.1.2/spring-boot-starter-thymeleaf-3.1.2-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../Agricultural Implements/Maven Repository/Maven Repository Public/Repository_public/Repository_public/org/springframework/boot/spring-boot-starter-thymeleaf/3.1.2/spring-boot-starter-thymeleaf-3.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Agricultural Implements/Maven Repository/Maven Repository Public/Repository_public/Repository_public/org/springframework/boot/spring-boot-starter-thymeleaf/3.1.2/spring-boot-starter-thymeleaf-3.1.2-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

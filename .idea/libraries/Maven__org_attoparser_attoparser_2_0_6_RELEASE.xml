@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.attoparser:attoparser:2.0.6.RELEASE">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Agricultural Implements/Maven Repository/Maven Repository Public/Repository_public/Repository_public/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Agricultural Implements/Maven Repository/Maven Repository Public/Repository_public/Repository_public/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../Agricultural Implements/Maven Repository/Maven Repository Public/Repository_public/Repository_public/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Agricultural Implements/Maven Repository/Maven Repository Public/Repository_public/Repository_public/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../Agricultural Implements/Maven Repository/Maven Repository Public/Repository_public/Repository_public/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Agricultural Implements/Maven Repository/Maven Repository Public/Repository_public/Repository_public/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
