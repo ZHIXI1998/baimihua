@@ -7,8 +7,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BaimihuaApplication {
 
     public static void main(String[] args) {
+<<<<<<< HEAD
         //
         //冲突了
+=======
+>>>>>>> parent of d883cd0 (11)
         SpringApplication.run(BaimihuaApplication.class, args);
     }
 
