@@ -8,6 +8,7 @@ public class BaimihuaApplication {
 
     public static void main(String[] args) {
         //
+        //冲突了
         SpringApplication.run(BaimihuaApplication.class, args);
     }
 
