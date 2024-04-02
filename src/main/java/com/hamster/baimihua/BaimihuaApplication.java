@@ -1,5 +1,6 @@
 package com.hamster.baimihua;
 
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

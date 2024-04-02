@@ -8,6 +8,7 @@ class BaimihuaApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("晶核，启动！");
     }
 
 }
