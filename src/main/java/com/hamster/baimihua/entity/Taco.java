@@ -3,8 +3,9 @@ package com.hamster.baimihua.entity;
 import java.util.List;
 
 /**
- * 功能描述：墨西哥煎玉米粉卷
+ * 功能描述：墨西哥煎玉米粉
  * 张三
+ * 李四
  */
 public class Taco {
     private String name;
