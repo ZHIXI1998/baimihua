@@ -8,9 +8,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BaimihuaApplication {
 
     public static void main(String[] args) {
-        //1
-        //linux
-        //linux++
         //张三
         SpringApplication.run(BaimihuaApplication.class, args);
     }
