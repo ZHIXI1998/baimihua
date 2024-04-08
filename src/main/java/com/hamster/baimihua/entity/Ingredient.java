@@ -2,11 +2,11 @@ package com.hamster.baimihua.entity;
 
 
 /**
- * 功能描述： 墨西哥煎玉米粉卷组成部分 配料
+ * 功能描述�墨西哥煎玉米粉卷组成部分 配料
  */
 
 public class Ingredient {
-    //配料的ID，这样的话对他的引用就能非常容易和明确
+    //配料的ID，这样的话对他的引用就能非常容易和明�
     private  String id;
     //配料名称
     private  String name;

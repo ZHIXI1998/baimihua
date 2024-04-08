@@ -9,7 +9,7 @@ public class BaimihuaApplication {
 
     public static void main(String[] args) {
         //1
-        //我是启动�
+        //linux
         SpringApplication.run(BaimihuaApplication.class, args);
     }
 
