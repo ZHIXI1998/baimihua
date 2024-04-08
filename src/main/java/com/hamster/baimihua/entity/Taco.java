@@ -37,7 +37,7 @@ public class Taco {
     public String toString() {
         return "Taco{" +
                 "name='" + name + '\'' +
-                ", ingredients=1" + ingredients +
+                ", ingredients" + ingredients +
                 '}';
     }
 }

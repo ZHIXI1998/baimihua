@@ -10,7 +10,7 @@ public class Ingredient {
     private  String id;
     //配料名称
     private  String name;
-    //配料类型1
+    //配料类型
     private Type type;
 
     public Ingredient(String id, String name, Type type) {
