@@ -9,7 +9,7 @@ public class BaimihuaApplication {
 
     public static void main(String[] args) {
         //1
-        //linux+
+        //linux
         SpringApplication.run(BaimihuaApplication.class, args);
     }
 
