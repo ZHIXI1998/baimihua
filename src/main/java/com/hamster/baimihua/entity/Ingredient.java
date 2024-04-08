@@ -11,6 +11,7 @@ public class Ingredient {
     //配料名称
     private  String name;
     //配料类型
+    //+
     private Type type;
 
     public Ingredient(String id, String name, Type type) {
