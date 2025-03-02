@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BaimihuaApplication {
 
     public static void main(String[] args) {
-        //2
+        //20250302 修改
         SpringApplication.run(BaimihuaApplication.class, args);
     }
 
